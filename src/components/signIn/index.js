@@ -142,8 +142,8 @@ class SignInForm extends Component {
                             <hr />
                             <p> Sign up to create an account - and start managing your expenses </p>
                             <hr />
-                            <iframe src="https://ghbtns.com/github-btn.html?user=YogeshPrasanna&repo=expense-manager-react&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-                            <iframe src="https://ghbtns.com/github-btn.html?user=YogeshPrasanna&repo=expense-manager-react&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+                            <iframe src="https://ghbtns.com/github-btn.html?user=YogeshPrasanna&repo=expense-manager-2306&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+                            <iframe src="https://ghbtns.com/github-btn.html?user=YogeshPrasanna&repo=expense-manager-2306&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
                         </div>
                     </div>
                     <div className="col-sm-12 col-md-6 ">
