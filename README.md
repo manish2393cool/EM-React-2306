@@ -1,17 +1,5 @@
 ## A Simple Expense Manager 💵
-
-## Note
-
-*_I have stopped support for this application in terms of updating the stack and versions, if you run npm install , you might run into errors for not having latest versions of firebase , hence i advice to download the node modules in this project to run it locally_*
-
-## DEMO Account
-
-*_In case you need to have a quick look at the app without creating an account, use the below credentials_*
-
-[Click Here For Demo](https://sad-shirley-6ef62f.netlify.com/)
-
-`Username : yogi15moto@gmail.com`
-`password : yogesh`
+<!-- 
 
 ## SCREENSHOTS
 
@@ -156,3 +144,4 @@ By default, the generated project uses the latest version of React.
 
 You can refer [to the React documentation](https://reactjs.org/docs/react-dom.html#browser-support) for more information about supported browsers.
 
+ -->
